@@ -1,0 +1,6 @@
+linux is operating system
+allocate system to user
+welcome
+good morning
+have a nice day
+hello
